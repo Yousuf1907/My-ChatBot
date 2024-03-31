@@ -8,7 +8,7 @@ import docx
 import os
 import webbrowser
 
-name= "PHOENIX. - Personal Helper Optimized for Efficient Navigation and Information eXchange"
+name= "ICB"
 
 
 engine = pyttsx3.init('sapi5')
